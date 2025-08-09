@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaskManager Pro</string>
+    <string-array name="priorities">
+        <item>Baja</item>
+        <item>Media</item>
+        <item>Alta</item>
+    </string-array>
+</resources>
